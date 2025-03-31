@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f7f7f7;
+}
+h1 {
+    color: #9120d7;
+}
+nav a {
+    margin: 10px;
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(236, 141, 255);
+}
